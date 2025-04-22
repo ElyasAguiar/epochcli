@@ -21,6 +21,9 @@ pip install -e .
 
 # Uninstall in development mode
 pip uninstall epochcli
+
+# case use zshrc add
+alias epochcli="python -m epochcli.cli"
 ```
 
 ## Usage
